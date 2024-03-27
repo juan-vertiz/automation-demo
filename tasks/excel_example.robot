@@ -14,7 +14,7 @@ Read Excel File
 Write Excel File
     [Documentation]    Write data to an Excel file
     [Tags]    write
-    ${data_a}=    Create Dictionary    name=John    age=25
-    ${data_b}=    Create Dictionary    name=Jane    age=30
+    ${data_a}=    Create Dictionary    id=0295    first_name=99N75 425    last_name=5TlV    job_title=${EMPTY}
+    ${data_b}=    Create Dictionary    id=0002    first_name=Odis    last_name=Adalwin    job_title=Chief Technical Officer (Deleted)
     ${data}=    Create List    ${data_a}    ${data_b}
     Write Data To Excel File    ${data}    ${OUTPUT_DIR}/sample.xlsx
