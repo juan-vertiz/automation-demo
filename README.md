@@ -21,9 +21,10 @@ siguientes:
 1. Get Employee Contact Info Report
 1. Get Employee Job Details Report
 
-El sistema que se utiliza para la demostración es OrangeHRM, un sistema de
-gestión de recursos humanos. Las credenciales de acceso al sistema son las
-siguientes:
+El sistema que se utiliza para la demostración es
+[OrangeHRM](https://opensource-demo.orangehrmlive.com/web/auth/login), un
+sistema de gestión de recursos humanos. Las credenciales de acceso al sistema
+son las siguientes:
 
 - Usuario: admin
 - Contraseña: admin123
